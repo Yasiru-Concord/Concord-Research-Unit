@@ -1,0 +1,311 @@
+
+.depicter-revert .depicter-1-element-11{
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-11:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-11:not(.depicter-hover-off):hover {
+	background-color:transparent;
+}
+.depicter-1-element-11 .depicter-symbol-container{
+	fill:#EED306;
+	transition:all ease 0.3s;
+}
+.depicter-1-element-11:hover .depicter-symbol-container{
+	fill:#FF6400;
+}
+.depicter-revert .depicter-1-element-12{
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-12:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-12:not(.depicter-hover-off):hover {
+	background-color:transparent;
+}
+.depicter-1-element-12 .depicter-symbol-container{
+	fill:#EED306;
+	transition:all ease 0.3s;
+}
+.depicter-1-element-12:hover .depicter-symbol-container{
+	fill:#FF6400;
+}
+.depicter-revert .depicter-1-element-9{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-8{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-7{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-6{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-5{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-4{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-36{
+	transform:rotate(-30deg);
+}
+.depicter-revert .depicter-1-element-35{
+	transform:rotate(-30deg);
+}
+.depicter-revert .depicter-1-element-31{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-30{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-29{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-28{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-27{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-26{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-24 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-49{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-48{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-47{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-46{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-45{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-44{
+	opacity:0.2;
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-42 .depicter-section-background{
+	background-color:#FFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-1-element-8{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-7{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-5{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-image:radial-gradient(circle at center, #000000 0%, rgba(0, 0, 0, 0.8) 30%);
+}
+.depicter-revert .depicter-1-element-36{
+	transform:rotate(-30deg);
+}
+.depicter-revert .depicter-1-element-35{
+	transform:rotate(-30deg);
+}
+.depicter-revert .depicter-1-element-30{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-29{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-27{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-24 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-24 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-image:radial-gradient(circle at center, #000000 0%, rgba(0, 0, 0, 0.8) 30%);
+}
+.depicter-revert .depicter-1-element-48{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-47{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-45{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-42 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-42 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-image:radial-gradient(circle at center, #000000 0%, rgba(0, 0, 0, 0.8) 30%);
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-1-element-12 .depicter-symbol-container{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-9{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-8{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-7{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-6{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-5{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-4{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-image:radial-gradient(circle at center, #000000 0%, rgba(0, 0, 0, 0.8) 30%);
+}
+.depicter-revert .depicter-1-element-36{
+	transform:rotate(-30deg);
+}
+.depicter-revert .depicter-1-element-35{
+	transform:rotate(-30deg);
+}
+.depicter-revert .depicter-1-element-31{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-30{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-29{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-28{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-27{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-26{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-24 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-24 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-image:radial-gradient(circle at center, #000000 0%, rgba(0, 0, 0, 0.8) 30%);
+}
+.depicter-revert .depicter-1-element-49{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-48{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-47{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-46{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-45{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-44{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-42 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-section-42 .depicter-section-background::after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+	left:0;
+	z-index:1;
+	background-image:radial-gradient(circle at center, #000000 0%, rgba(0, 0, 0, 0.8) 30%);
+}
+
+}
